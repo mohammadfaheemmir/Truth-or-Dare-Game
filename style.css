@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+}
+
+.truth,
+.dare {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.truth {
+    background-color: #66ccff;
+}
+
+.dare {
+    background-color: #ff6666;
+}
+
+.result {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 20px;
+}
